@@ -20,11 +20,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-<<<<<<< HEAD
+
 SECRET_KEY = "django-insecure-v=v2ai23c(2eg@uk38rgc(b1gph22w)cdnt97$jm9dl7=#4-=_"
-=======
-SECRET_KEY = "django-insecure--&p1+@tx#)&s7fa88-j%co*gwfp%2=uial!^8e=jmunq21#w3l"
->>>>>>> 4890ca37412f7e517d6014ec84f8c241609fc22f
+
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -126,8 +125,5 @@ STATIC_URL = "static/"
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
-<<<<<<< HEAD
-=======
 
->>>>>>> 4890ca37412f7e517d6014ec84f8c241609fc22f
 AUTH_USER_MODEL = "taxi.Driver"
