@@ -6,4 +6,8 @@
 venv/
 .pytest_cache/
 **__pycache__/
+<<<<<<< HEAD
 **db.sqlite3
+=======
+**db.sqlite3
+>>>>>>> 4890ca37412f7e517d6014ec84f8c241609fc22f
